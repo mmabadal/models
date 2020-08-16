@@ -1,3 +1,12 @@
+
+research/object_detection/RUNS/*
+research/object_detection/architectures/*
+research/object_detection/data/*
+research/object_detection/protos/*
+research/object_detection/results/*
+research/object_detection/training/*
+research/object_detection/test_images/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
